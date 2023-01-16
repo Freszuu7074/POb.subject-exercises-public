@@ -1,0 +1,8 @@
+C:\Users\uczen\Desktop\16.01.23\Cw1\Cw1\bin\Debug\Cw1.exe.config
+C:\Users\uczen\Desktop\16.01.23\Cw1\Cw1\bin\Debug\Cw1.exe
+C:\Users\uczen\Desktop\16.01.23\Cw1\Cw1\bin\Debug\Cw1.pdb
+C:\Users\uczen\Desktop\16.01.23\Cw1\Cw1\obj\Debug\Cw1.csproj.AssemblyReference.cache
+C:\Users\uczen\Desktop\16.01.23\Cw1\Cw1\obj\Debug\Cw1.csproj.SuggestedBindingRedirects.cache
+C:\Users\uczen\Desktop\16.01.23\Cw1\Cw1\obj\Debug\Cw1.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Desktop\16.01.23\Cw1\Cw1\obj\Debug\Cw1.exe
+C:\Users\uczen\Desktop\16.01.23\Cw1\Cw1\obj\Debug\Cw1.pdb
