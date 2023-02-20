@@ -1,0 +1,8 @@
+C:\Users\uczen\Desktop\19.02.23\Cw\Cw\bin\Debug\Cw.exe.config
+C:\Users\uczen\Desktop\19.02.23\Cw\Cw\bin\Debug\Cw.exe
+C:\Users\uczen\Desktop\19.02.23\Cw\Cw\bin\Debug\Cw.pdb
+C:\Users\uczen\Desktop\19.02.23\Cw\Cw\obj\Debug\Cw.csproj.AssemblyReference.cache
+C:\Users\uczen\Desktop\19.02.23\Cw\Cw\obj\Debug\Cw.csproj.SuggestedBindingRedirects.cache
+C:\Users\uczen\Desktop\19.02.23\Cw\Cw\obj\Debug\Cw.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Desktop\19.02.23\Cw\Cw\obj\Debug\Cw.exe
+C:\Users\uczen\Desktop\19.02.23\Cw\Cw\obj\Debug\Cw.pdb
