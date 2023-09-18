@@ -30,6 +30,9 @@ namespace _18._09._23
         }
         class Towar : IRabatable, IWysylkable
         {
+            private Seria seria;
+            private Rodzaj rodzaj;
+            private Polka polka;
             public void rabat()
             {
                 Rabat rabat = new Rabat();
